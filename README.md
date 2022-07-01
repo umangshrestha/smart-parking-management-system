@@ -1,6 +1,6 @@
 # Smart Parking Management System
 
-## Cicuit Diagram: ![alt text](./doc/circuitdiagram.png)
+## Cicuit Diagram: ![alt text](./doc/CircuitDiagram.png)
 ## Components Required:
 | # | Component | Count |
 | :---: | :---: | :---: |
